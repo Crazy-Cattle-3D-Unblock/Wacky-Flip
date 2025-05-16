@@ -2,6 +2,8 @@
 
 Play [Wacky Flip](https://sprunkiretake.net/sprunki-game/wacky-flip)
 
+![Wacky Flip](https://game.sprunkiretake.net/wacky-flip.webp)
+
 Prepare to launch into an urban playground of pure, unadulterated aerial chaos with **Wacky Flip**, a game where audacious physics meets skill-based parkour. In the world of **Wacky Flip**, players are invited to transform everyday cityscapes into their personal stunt arenas. The challenge lies in performing an array of spectacular maneuvers, from classic backflips to complex pike twists and other wild mid-air acrobatics. The core excitement of **Wacky Flip** stems from catapulting your ragdoll athlete off towering structures, attempting outrageous slam dunks through strategically positioned stunt hoops, and striving for those incredibly satisfying, yet often hilariously improbable, landings. Gravity isn't just a rule in **Wacky Flip**; it's an invitation to perform with flair and embrace the joy of controlled mayhem. This innovative game truly celebrates style, precision, and a hearty dose of laughter.
 
 ## The Uniquely Skillful Hilarity of Wacky Flip
